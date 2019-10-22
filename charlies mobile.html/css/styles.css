@@ -1,0 +1,35 @@
+/* Charlies project styles */
+.special{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight:900;
+    color: rosybrown;
+}
+.container{
+    align-content: stretch;
+    display:grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 100px;
+    grid-gap: 20px;
+    
+}
+body {
+    background-color:floralwhite
+}
+h2{
+    color: cadetblue
+}
+h3{
+    font-weight:600
+    color:darkcyan;
+   
+    
+}
+p{  color:darkcyan;
+    font-weight: 200}
+img {
+    max-width: 90%;
+}
+ul {
+    margin-bottom: 2rem;
+}
