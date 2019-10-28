@@ -8,9 +8,9 @@
 .button{
     column-count: 3;
     color: rosybrown;
-    padding: 5rem;
+    padding: rem;
     padding-top: 3rem;
-    align-content: center;
+    align-content:space-between;
     align-items: baseline;
 }
 
@@ -58,8 +58,11 @@ p{  color:rosybrown;
 }
 img {
     max-width: 90%;
+    max-height: 90%;
     align-content: center;
-    padding: inherit;
+    padding: 5rem;
+    flex: auto;
+    padding-left: 5rem;
 }
 ul {
     width: auto;
