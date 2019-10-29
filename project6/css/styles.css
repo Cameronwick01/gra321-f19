@@ -1,0 +1,71 @@
+/* For Mobile Phones */
+.special{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight:900;
+    color: rosybrown;
+}
+.button{
+    column-count: 3;
+    color: rosybrown;
+    padding: rem;
+    padding-top: 3rem;
+    align-content:space-between;
+    align-items: baseline;
+}
+
+.info{
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+ul{
+    padding-left: 10rem;
+    shape-margin: 2rem;
+}
+
+body { 
+    letter-spacing: .5px;
+    line-height: 1.5;
+    padding: 10%;
+    font-family:sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: aliceblue;
+}
+h2{
+    color:rosybrown;
+    font font-weight: 300;
+    font-family: sans-serif;
+}
+h4{
+    padding-left: 5rem;
+}
+h3{
+    font-weight:600
+    color:rosybrown;
+    
+}
+p1{
+    padding: 3rem;
+    font-style: italic;
+    color:rosybrown;
+}
+p{  color:rosybrown;
+    font-weight: 200;
+    font-style: italic;
+    padding-left: 5rem;
+}
+img {
+    max-width: 90%;
+    max-height: 90%;
+    align-content: center;
+    padding: 5rem;
+    flex: auto;
+    padding-left: 5rem;
+}
+ul {
+    width: auto;
+    margin-top: inherit;
+    margin-bottom: 8rem;
+}
